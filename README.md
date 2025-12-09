@@ -26,7 +26,7 @@ I am a technician focused on backend development, Linux, networking, and cyberse
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-FFFFFF?style=for-the-badge\&logo=mysql\&logoColor=black)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge\&logo=react\&logoColor=blue)
-![Angular](https://img.shields.io/badge/Angular-FFFFFF4?style=for-the-badge\&logo=angular\&logoColor=red)
+![Angular](https://img.shields.io/badge/Angular-FFFFFFF?style=for-the-badge\&logo=angular\&logoColor=red)
 ### **Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
