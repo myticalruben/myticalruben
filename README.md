@@ -21,12 +21,13 @@ I am a technician focused on backend development, Linux, networking, and cyberse
 
 ### **Languages**
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-FFFFFF?style=for-the-badge\&logo=mysql\&logoColor=black)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge\&logo=react\&logoColor=blue)
-![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge\&logo=angular\&logoColor=red)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### **Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
