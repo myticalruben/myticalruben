@@ -10,7 +10,7 @@ I am a technician focused on backend development, Linux, networking, and cyberse
 
 ## 🚀 About Me
 
-* 💻 Developer with experience in **Java, Python, Rust, PHP, Mysql**
+* 💻 Developer with experience in **Java, Python, Rust, React, Angular, Mysql**
 * 🐧 Skilled in **Linux**, **Docker**, and **Git**
 * 🌐 Practical experience in **networking**, system installation, and technical support
 * 🔐 Strong background in **cybersecurity** (diplomas + specialized training)
@@ -25,7 +25,8 @@ I am a technician focused on backend development, Linux, networking, and cyberse
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-FFFFFF?style=for-the-badge\&logo=mysql\&logoColor=black)
-![React](https://img.shields.io/badge/React-777BB4?style=for-the-badge\&logo=react\&logoColor=blue)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge\&logo=react\&logoColor=blue)
+![Angular](https://img.shields.io/badge/Angular-FFFFFF4?style=for-the-badge\&logo=angular\&logoColor=red)
 ### **Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
