@@ -1,7 +1,3 @@
-Aquí tienes la versión **en inglés con badges estilo GitHub**, lista para copiar y pegar en tu README:
-
----
-
 # 👋 Hello, I'm **Ruben Alexander Cano Jimenez**
 
 I am a technician focused on backend development, Linux, networking, and cybersecurity. I enjoy building simple, secure, and efficient solutions while continuously expanding my knowledge in programming and information security.
