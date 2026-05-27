@@ -10,8 +10,6 @@
 - Java + Spring Boot
 - C++
 - MySQL / PostgreSQL
-- Git & GitHub
-- REST APIs
 - Docker
 
 ## 📫 Contact
