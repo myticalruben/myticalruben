@@ -1,21 +1,22 @@
 # 👋 Hello, I'm **Ruben Alexander Cano Jimenez**
----
-🎓 Estudiante de Ingeniería Informática  
-💻 Backend Developer en formación  
-🚀 Tecnologías: Java Spring, C++, SQL  
-🔒 Interesado en Backend, Redes y Ciberseguridad  
 
-## Tecnologías
+---
+
+🎓 Computer Engineering Student  
+💻 Backend Developer  
+🚀 Technologies: Java Spring, C++, SQL  
+
+## Technologies
 - Java + Spring Boot
 - C++
-- MySQL / PostgreSQL 
+- MySQL / PostgreSQL
 - Git & GitHub
 - REST APIs
 - Docker
-  
-## 📫 Contacto
-📧 **Correo:** [rubenalexandercanojimenez@gmail.com](mailto:rubenalexandercanojimenez@gmail.com)
-📱 **Telefono:** +1 (849) 351-9817
-📍 **Ubicacion:** La Romana, Dominican Republic
+
+## 📫 Contact
+📧 **Email:** [rubenalexandercanojimenez@gmail.com](mailto:rubenalexandercanojimenez@gmail.com)  
+📱 **Phone:** +1 (849) 351-9817  
+📍 **Location:** La Romana, Dominican Republic
 
 ---
