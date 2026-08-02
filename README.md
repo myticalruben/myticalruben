@@ -4,11 +4,11 @@
 
 🎓 Computer Engineering Student  
 💻 Backend Developer  
-🚀 Technologies: Java Spring, C++, SQL  
+🚀 Technologies: Java Spring, Rust, SQL  
 
 ## Technologies
 - Java + Spring Boot
-- C++
+- Rust
 - MySQL / PostgreSQL
 - Docker
 
