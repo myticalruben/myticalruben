@@ -82,15 +82,6 @@ DevOps aplicado (Terraform, LocalStack, pipelines multi-motor) · Arquitectura l
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=myticalruben&show_icons=true&hide_border=true&include_all_commits=true&theme=default">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myticalruben&layout=compact&hide_border=true&langs_count=8&theme=default">
-</p>
-
----
-
 ## 📫 Contacto
 
 📧 [rubenalexandercanojimenez@gmail.com](mailto:rubenalexandercanojimenez@gmail.com) · 📍 La Romana, República Dominicana
