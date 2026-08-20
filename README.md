@@ -67,21 +67,6 @@ DevOps aplicado (Terraform, LocalStack, pipelines multi-motor) · Arquitectura l
 
 ---
 
-## 📌 Proyectos destacados
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [**cicd-lab-spring-boot**](https://github.com/myticalruben/cicd-lab-spring-boot) | Laboratorio de CI/CD completo: build, test, imagen Docker e infraestructura como código | Java · Spring Boot · Terraform · LocalStack · GitHub Actions |
-| [**Rustile**](https://github.com/myticalruben/Rustile) | Tiling window manager para X11, configurable en Rust | Rust · x11rb · xkeysym |
-| [**Task-Manager-Api**](https://github.com/myticalruben/Task-Manager-Api) | API REST de tareas con migraciones versionadas | Spring Boot 4 · Java 25 · PostgreSQL · Flyway |
-| [**inventory-management-api**](https://github.com/myticalruben/inventory-management-api) | API de gestión de inventario documentada con OpenAPI | Spring Boot · JPA · MapStruct · PostgreSQL |
-| [**GastiApp**](https://github.com/myticalruben/GastiApp) | App Android para control de gastos | Kotlin · Android |
-| [**.dotfiles**](https://github.com/myticalruben/.dotfiles) | Mi escritorio Linux completo, reproducible en cualquier máquina | Nix · Home Manager · Hyprland · Lua |
-| [**portfolio**](https://github.com/myticalruben/portfolio) | Mi portafolio personal | Angular 20 · SCSS |
-| [**mytical-os**](https://github.com/myticalruben/mytical-os) | Kernel experimental x86_64 desde cero | Rust `no_std` |
-
----
-
 ## 📫 Contacto
 
 📧 [rubenalexandercanojimenez@gmail.com](mailto:rubenalexandercanojimenez@gmail.com) · 📍 La Romana, República Dominicana
