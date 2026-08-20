@@ -16,19 +16,6 @@
 
 ---
 
-## 🔭 En qué estoy trabajando ahora
-
-- **CI/CD de punta a punta** → [`cicd-lab-spring-boot`](https://github.com/myticalruben/cicd-lab-spring-boot): el mismo pipeline (Gradle → Docker → Terraform sobre LocalStack) implementado en tres motores distintos. GitHub Actions ✅ · GitLab CI ⏳ · Jenkins ⏳.
-- **APIs REST con Spring Boot 4 y Java 25** → [`Task-Manager-Api`](https://github.com/myticalruben/Task-Manager-Api) e [`inventory-management-api`](https://github.com/myticalruben/inventory-management-api): JPA, PostgreSQL, Flyway, MapStruct, validación y OpenAPI.
-- **Rustile** → [un tiling window manager escrito en Rust](https://github.com/myticalruben/Rustile) sobre X11 con `x11rb`, inspirado en Qtile. Publicado en crates.io.
-- **Mi entorno Linux como código** → [`.dotfiles`](https://github.com/myticalruben/.dotfiles): Hyprland, Neovim y Quickshell reproducibles con **Nix + Home Manager**.
-
-## 🌱 Qué estoy aprendiendo
-
-DevOps aplicado (Terraform, LocalStack, pipelines multi-motor) · Arquitectura limpia en Spring Boot · Rust a nivel de sistemas (incluyendo [un kernel desde cero](https://github.com/myticalruben/mytical-os)) · Nix y sistemas declarativos.
-
----
-
 ## 🛠️ Tecnologías que manejo
 
 **Backend**
